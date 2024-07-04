@@ -1,8 +1,8 @@
 # inSLiMS Template
 
-![SLiMS Logo](assets/images/logo-slims-pro-rakyat.png)
+![SLiMS Logo](assets/images/logo-slims-pro-rakyat-reverse.png)
 
-Template ini merupakan template untuk aplikasi [SLiMS](https://slims.web.id/), sebuah sistem otomasi perpustakaan (Senayan Library Automation System).
+Template ini merupakan template untuk aplikasi [SLiMS](https://slims.web.id/), sebuah sistem otomasi perpustakaan (Senayan Library Management System).
 
 ## Deskripsi
 
