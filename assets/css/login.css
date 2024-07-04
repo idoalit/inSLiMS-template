@@ -42,10 +42,10 @@ body {
   border: 0px solid black;
   top: 105px;
   position: relative;
-  background: url(../images/logo-slims-pro-rakyat.png);
+  background: url(../images/logo-slims-pro-rakyat-reverse.png);
   background-repeat: no-repeat;
   background-size: 100%;
-  margin-left: 5px;
+  margin-left: -100px;
   margin-bottom: 28px;
   filter: drop-shadow(5px 5px 5px #0a212f);
   -webkit-filter: drop-shadow(5px 5px 5px #0a212f);
